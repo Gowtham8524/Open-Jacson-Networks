@@ -61,6 +61,7 @@ print("----------------------------------------------------------------------")
 
 ## Output
 <img width="736" height="411" alt="image" src="https://github.com/user-attachments/assets/2f4645ef-1b12-4b11-87cc-4b7959d5a220" />
+
 ## Result
 Thus the program is implemented and executed successfully.
 
